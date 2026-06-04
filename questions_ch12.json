@@ -1,0 +1,586 @@
+{
+  "chapter": "Chapter 12 동명사",
+  "sections": {
+    "MB": {
+      "label": "📙 내신대비 실전문제",
+      "questions": {
+        "27": {
+          "q": "다음 중 어법상 올바른 것은?",
+          "content": "",
+          "options": [
+            "She had trouble to remembering names.",
+            "On hearing the news, he called his wife.",
+            "You used to traveling alone, weren't you?",
+            "I look forward to visit the Grand Canyon.",
+            "He feels like to play video games until late."
+          ],
+          "answer": "②",
+          "hint": "On -ing는 '~하자마자'의 뜻으로 올바른 동명사 표현이다. have trouble -ing, be used to -ing, look forward to -ing, feel like -ing 모두 전치사 뒤에 동명사가 와야 한다.",
+          "explanation": {
+            "①": "to remembering → remembering: have trouble -ing. to 없이 동명사만 써야 함 ✗",
+            "②": "On hearing — On -ing: '~하자마자'의 올바른 표현 ✓",
+            "③": "to traveling → traveling: be used to -ing. to는 전치사이므로 동명사가 와야 함 ✗",
+            "④": "to visit → to visiting: look forward to -ing. to는 전치사 ✗",
+            "⑤": "to play → playing: feel like -ing ✗"
+          }
+        },
+        "28": {
+          "q": "다음 중 틀린 문장을 찾아 그 번호를 쓰고 문장을 바르게 고쳐 쓰시오.",
+          "content": "My name is Alice. ① My hobby is reading novels. ② I am good playing the violin. ③ I try to practice the violin every day. ④ I'm looking forward to making many good friends here. ⑤ Thank you for listening to me.",
+          "options": [],
+          "answer": "② → I am good at playing the violin.",
+          "hint": "'~을 잘한다'는 be good at -ing이므로 playing 앞에 전치사 at이 필요하다.",
+          "explanation": {
+            "①": "is reading — 동명사 주격보어 ✓",
+            "②": "good playing → good at playing: be good at -ing에서 at 빠짐 ✗",
+            "③": "to practice — try+to부정사 ✓",
+            "④": "to making — look forward to -ing ✓",
+            "⑤": "listening — thank you for -ing ✓"
+          }
+        },
+        "30": {
+          "q": "밑줄 친 부분이 동명사로 쓰인 것을 모두 고르시오.",
+          "content": "ⓐ The smiling boy waved at us.\nⓑ He avoided making a decision.\nⓒ Are you afraid of getting lost?\nⓓ The workers are building a new bridge.\nⓔ Feeding the birds is her favorite activity.\nⓕ We watched the twinkling stars in the sky.",
+          "options": [],
+          "answer": "ⓑ, ⓒ, ⓔ",
+          "hint": "동명사는 문장 안에서 명사 역할(주어, 목적어, 보어)을 한다. 현재분사는 진행형이나 명사 수식 역할을 한다.",
+          "explanation": {
+            "ⓐ": "smiling — 현재분사(명사 수식: 웃고 있는 소년)",
+            "ⓑ": "making — 동명사(avoid의 목적어) ✓",
+            "ⓒ": "getting — 동명사(전치사 of의 목적어) ✓",
+            "ⓓ": "building — 현재분사(현재진행형)",
+            "ⓔ": "Feeding — 동명사(주어) ✓",
+            "ⓕ": "twinkling — 현재분사(명사 수식: 반짝이는 별)"
+          }
+        }
+      }
+    },
+    "TEST": {
+      "label": "📘 Chapter 12 TEST",
+      "questions": {
+        "1": {
+          "q": "다음 빈칸에 들어갈 말로 알맞은 것은?",
+          "content": "He enjoys __________ spicy food very much.",
+          "options": [
+            "eat",
+            "ate",
+            "to eat",
+            "eating",
+            "to eating"
+          ],
+          "answer": "④",
+          "hint": "enjoy는 동명사를 목적어로 취하는 동사이다.",
+          "explanation": {
+            "①": "eat — 동사원형. enjoy의 목적어로 동명사가 와야 하므로 불가 ✗",
+            "②": "ate — 과거형. 목적어 자리이므로 불가 ✗",
+            "③": "to eat — to부정사. enjoy는 동명사만 목적어로 취하므로 불가 ✗",
+            "④": "eating — 동명사. enjoy는 동명사를 목적어로 취하는 동사이므로 정답 ✓",
+            "⑤": "to eating — 존재하지 않는 형태 ✗"
+          }
+        },
+        "2": {
+          "q": "다음 중 어법상 틀린 것은?",
+          "content": "",
+          "options": [
+            "Keeping a diary is a good idea.",
+            "He denied committing the crime.",
+            "She is excited about playing chess.",
+            "My favorite activity is going fishing.",
+            "I look forward to meet your family soon."
+          ],
+          "answer": "⑤",
+          "hint": "'~하는 것을 기대하다'는 look forward to -ing이므로 meet → meeting이 되어야 한다.",
+          "explanation": {
+            "①": "Keeping — 동명사 주어 ✓",
+            "②": "committing — deny는 동명사를 목적어로 취함 ✓",
+            "③": "playing — 전치사 about 뒤 동명사 ✓",
+            "④": "going fishing — go -ing 형태 ✓",
+            "⑤": "to meet → to meeting. look forward to의 to는 전치사이므로 뒤에 동명사가 와야 한다 ✗"
+          }
+        },
+        "3": {
+          "q": "다음 빈칸에 공통으로 들어갈 말로 알맞은 것은?",
+          "content": "• __________ your feelings is important in friendships.\n• She didn't mind __________ her ideas with them.",
+          "options": [
+            "Share(share)",
+            "Shares(shares)",
+            "Sharing(sharing)",
+            "To share(to share)",
+            "For sharing(for sharing)"
+          ],
+          "answer": "③",
+          "hint": "첫 번째 빈칸은 주어 자리이므로 동명사나 to부정사가 알맞고, 두 번째 빈칸은 mind가 동명사를 목적어로 취하는 동사이므로 동명사만 쓸 수 있다.",
+          "explanation": {
+            "①": "Share(share) — 주어 자리에 동사원형은 불가 ✗",
+            "②": "Shares(shares) — 3인칭 단수 동사형으로 주어 자리 불가 ✗",
+            "③": "Sharing(sharing) — 첫 번째: 동명사 주어, 두 번째: mind의 동명사 목적어 ✓",
+            "④": "To share(to share) — 두 번째 빈칸에 to부정사 불가 ✗",
+            "⑤": "For sharing — 전치사구는 주어 자리에 불가 ✗"
+          }
+        },
+        "4": {
+          "q": "다음 중 밑줄 친 부분의 쓰임이 나머지 넷과 다른 것은?",
+          "content": "",
+          "options": [
+            "His job is <u>teaching</u> math.",
+            "The family is <u>having</u> dinner together.",
+            "She loves <u>baking</u> cookies for her friends.",
+            "Is your hobby <u>collecting</u> postcards?",
+            "My teacher suggests <u>asking</u> more questions."
+          ],
+          "answer": "②",
+          "hint": "②는 현재진행시제에 쓰인 현재분사이고 나머지는 모두 동명사로 쓰였다. ①④ 주격보어 ③⑤ 목적어",
+          "explanation": {
+            "①": "teaching — 동명사(주격보어) ✓ 동명사",
+            "②": "having — 현재분사(현재진행형 be + -ing). 나머지와 쓰임이 다름 ✗",
+            "③": "baking — 동명사(목적어) ✓ 동명사",
+            "④": "collecting — 동명사(주격보어) ✓ 동명사",
+            "⑤": "asking — 동명사(목적어) ✓ 동명사"
+          }
+        },
+        "5": {
+          "q": "다음 대화의 빈칸에 들어갈 말이 바르게 짝지어진 것은?",
+          "content": "A: Remember __________ your email for the meeting schedule.\nB: I remember __________ it this morning, but I didn't see anything.",
+          "options": [
+            "check — checking",
+            "to check — to check",
+            "to check — checking",
+            "checking — to check",
+            "checking — checking"
+          ],
+          "answer": "③",
+          "hint": "'(미래에) ~할 것을 기억하다'는 remember+to부정사로 나타내고, '(과거에) ~한 것을 기억하다'는 remember+동명사로 나타낸다.",
+          "explanation": {
+            "①": "check — checking: 첫 번째 빈칸에 동사원형 불가 ✗",
+            "②": "to check — to check: 두 번째는 과거에 확인한 것이므로 동명사가 와야 함 ✗",
+            "③": "to check — checking: 첫 번째(미래): to부정사, 두 번째(과거): 동명사 ✓",
+            "④": "checking — to check: 첫 번째는 앞으로 확인하라는 의미이므로 to부정사가 와야 함 ✗",
+            "⑤": "checking — checking: 첫 번째 빈칸에 동명사 불가 ✗"
+          }
+        },
+        "6": {
+          "q": "다음 빈칸에 들어갈 말로 알맞지 않은 것은?",
+          "content": "They __________ watching classic movies together on the weekends.",
+          "options": [
+            "enjoyed",
+            "started",
+            "considered",
+            "continued",
+            "wanted"
+          ],
+          "answer": "⑤",
+          "hint": "목적어가 동명사이므로 to부정사를 목적어로 취하는 동사 want는 알맞지 않다.",
+          "explanation": {
+            "①": "enjoyed — 동명사를 목적어로 취함 ✓",
+            "②": "started — 동명사/to부정사 모두 목적어로 취함 ✓",
+            "③": "considered — 동명사를 목적어로 취함 ✓",
+            "④": "continued — 동명사/to부정사 모두 목적어로 취함 ✓",
+            "⑤": "wanted — to부정사만 목적어로 취하는 동사. watching(동명사) 앞에 불가 ✗"
+          }
+        },
+        "7": {
+          "q": "다음 밑줄 친 부분을 고쳐 쓴 것이 바르지 않은 것은?",
+          "content": "",
+          "options": [
+            "I hate <u>to working</u> on weekends. → working",
+            "Have you finished <u>read</u> the novel? → to read",
+            "She started <u>learn</u> how to swim. → to learn",
+            "They are considering <u>to visit</u> the country. → visiting",
+            "He began <u>to writing</u> the history report last night. → to write"
+          ],
+          "answer": "②",
+          "hint": "finish는 동명사만 목적어로 취하는 동사이므로 to read가 아닌 reading으로 고쳐야 한다.",
+          "explanation": {
+            "①": "to working → working: hate는 동명사/to부정사 모두 가능, to working은 잘못된 형태이므로 working으로 수정 ✓",
+            "②": "read → to read: finish는 동명사만 목적어로 취하므로 reading이 되어야 한다. to read로 고치는 것은 틀림 ✗",
+            "③": "learn → to learn: start는 동명사/to부정사 모두 가능, to learn으로 수정 ✓",
+            "④": "to visit → visiting: consider는 동명사만 목적어로 취하므로 visiting으로 수정 ✓",
+            "⑤": "to writing → to write: begin은 to부정사/동명사 모두 가능, to writing은 잘못된 형태이므로 to write로 수정 ✓"
+          }
+        },
+        "8": {
+          "q": "괄호 안의 단어를 알맞은 형태로 써넣어 문장을 완성하시오.",
+          "content": "They will avoid __________ plastic bags to save animals in the ocean. (use)",
+          "options": [],
+          "answer": "using",
+          "hint": "avoid는 동명사를 목적어로 취하는 동사이므로 using으로 써야 한다.",
+          "explanation": {
+            "using": "avoid는 동명사를 목적어로 취하는 동사. use → using ✓"
+          }
+        }
+      }
+    },
+    "PLUS": {
+      "label": "📗 실전문제 PLUS",
+      "questions": {
+        "9": {
+          "q": "다음 밑줄 친 부분의 쓰임이 같은 것끼리 묶인 것은?",
+          "content": "ⓐ Is your hobby listening to music?\nⓑ The rain is falling heavily outside.\nⓒ Meeting new people can be exciting.\nⓓ The students are chatting during lunch break.\nⓔ Instead of watching TV, we played board games.",
+          "options": [
+            "ⓐ,ⓑ,ⓔ",
+            "ⓑ,ⓒ,ⓔ — ⓐ,ⓒ,ⓔ",
+            "ⓑ,ⓓ,ⓔ — ⓐ,ⓒ,ⓔ",
+            "ⓐ,ⓒ,ⓔ — ⓑ,ⓓ",
+            "ⓒ,ⓓ,ⓔ — ⓐ,ⓑ"
+          ],
+          "answer": "②(ⓑ,ⓓ — ⓐ,ⓒ,ⓔ)",
+          "hint": "ⓐ,ⓒ,ⓔ는 각각 주격보어, 주어, 전치사의 목적어 역할을 하는 동명사이고, ⓑ,ⓓ는 현재분사(현재진행형)이다.",
+          "explanation": {
+            "ⓐ": "listening — 동명사(주격보어)",
+            "ⓑ": "falling — 현재분사(현재진행형)",
+            "ⓒ": "Meeting — 동명사(주어)",
+            "ⓓ": "chatting — 현재분사(현재진행형)",
+            "ⓔ": "watching — 동명사(전치사 of의 목적어)"
+          }
+        },
+        "10": {
+          "q": "다음 짝지어진 두 문장의 의미가 서로 다른 것은?",
+          "content": "",
+          "options": [
+            "I hate waiting in long lines. / I hate to wait in long lines.",
+            "He continues improving his skills. / He continues to improve his skills.",
+            "They like learning new languages. / They like to learn new languages.",
+            "We began saving money for our future. / We began to save money for our future.",
+            "You should stop playing games every night. / You should stop to play games every night."
+          ],
+          "answer": "⑤",
+          "hint": "stop+동명사는 '~하는 것을 멈추다', stop+to부정사는 '~하기 위해 멈추다'의 뜻이다. like, continue, begin은 의미 변화 없이 동명사와 to부정사를 모두 목적어로 취한다.",
+          "explanation": {
+            "①": "hate+동명사 / hate+to부정사: 의미 동일 ✓",
+            "②": "continue+동명사 / continue+to부정사: 의미 동일 ✓",
+            "③": "like+동명사 / like+to부정사: 의미 동일 ✓",
+            "④": "begin+동명사 / begin+to부정사: 의미 동일 ✓",
+            "⑤": "stop+동명사(게임하는 것을 멈춰라) ≠ stop+to부정사(게임하기 위해 멈춰라): 의미 다름 ✗"
+          }
+        },
+        "11": {
+          "q": "다음 대화의 밑줄 친 부분 중 어법상 틀린 것은?",
+          "content": "A: I'm thinking about ① jogging tomorrow morning.\nB: Oh, I love ② jogging! I'm glad you're joining me.\nA: But I have trouble ③ waking up early.\nB: I used ④ to feel the same, but now I'm used ⑤ to get up early.",
+          "options": [
+            "①",
+            "②",
+            "③",
+            "④",
+            "⑤"
+          ],
+          "answer": "⑤",
+          "hint": "이때는 일찍 일어나는 데 익숙하다는 내용이 되어야 하므로 be used to -ing로 써야 한다. 따라서 to get → to getting이 되어야 한다.",
+          "explanation": {
+            "①": "jogging — 전치사 about의 목적어(동명사) ✓",
+            "②": "jogging — love의 목적어(동명사) ✓",
+            "③": "waking — have trouble -ing 구문 ✓",
+            "④": "to feel — used to + 동사원형(과거 습관) ✓",
+            "⑤": "to get → to getting: be used to의 to는 전치사이므로 뒤에 동명사가 와야 한다 ✗"
+          }
+        },
+        "12": {
+          "q": "다음 대화의 빈칸에 들어갈 말로 알맞은 것은?",
+          "content": "A: Do you __________ turning off the TV?\nB: Not at all.",
+          "options": [
+            "hope",
+            "want",
+            "expect",
+            "mind",
+            "agree"
+          ],
+          "answer": "④",
+          "hint": "목적어가 동명사이므로 동명사를 목적어로 취하는 동사 mind가 알맞다.",
+          "explanation": {
+            "①": "hope — to부정사를 목적어로 취함 ✗",
+            "②": "want — to부정사를 목적어로 취함 ✗",
+            "③": "expect — to부정사를 목적어로 취함 ✗",
+            "④": "mind — 동명사를 목적어로 취함. '꺼리다'의 의미 ✓",
+            "⑤": "agree — to부정사를 목적어로 취함 ✗"
+          }
+        },
+        "13": {
+          "q": "둘 중에서 어법에 맞는 것을 고르시오.",
+          "content": "I forgot ( buying / to buy ) milk yesterday, so we have no milk for breakfast.",
+          "options": [
+            "buying",
+            "to buy"
+          ],
+          "answer": "to buy",
+          "hint": "아침 식사에 우유가 없다는 말로 보아 '우유 사는 것을 잊었다'라는 의미가 되어야 하므로 to부정사가 알맞다.",
+          "explanation": {
+            "buying": "forget+동명사: '(과거에) ~했던 것을 잊다' — 문맥상 맞지 않음 ✗",
+            "to buy": "forget+to부정사: '(앞으로) ~할 것을 잊다' — 우유 사는 것을 잊어서 없다는 의미 ✓"
+          }
+        },
+        "14": {
+          "q": "다음 대화의 빈칸에 들어갈 말이 바르게 짝지어진 것은?",
+          "content": "A: We should stop __________ out so often.\nB: You're right. Let's start __________ more meals at home.\nA: __________ new recipes could be fun.",
+          "options": [
+            "to eat — cooking — Try",
+            "to eat — cooking — Trying",
+            "eating — to cook — Try",
+            "eating — cook — Trying",
+            "eating — cook — Trying"
+          ],
+          "answer": "⑤(eating — cook — Trying)",
+          "hint": "첫 번째 빈칸은 '~하는 것을 멈추다'의 뜻이 되어야 하므로 stop+동명사가 알맞다. 세 번째 빈칸은 주어 자리이므로 동명사가 알맞다.",
+          "explanation": {
+            "eating": "stop+동명사: '외식하는 것을 멈추자' ✓",
+            "cook": "start는 동명사/to부정사 모두 가능 ✓",
+            "Trying": "주어 자리의 동명사 ✓"
+          }
+        },
+        "15": {
+          "q": "다음 밑줄 친 부분과 쓰임이 같은 것은?",
+          "content": "Writing poems is one of my hobbies.",
+          "options": [
+            "She is interested in learning French.",
+            "He is considering changing his job.",
+            "Are you drawing a picture?",
+            "The children were laughing happily.",
+            "Paul was taking care of his neighbor's cat."
+          ],
+          "answer": "①",
+          "hint": "주어진 문장의 Writing은 주어 역할을 하는 동명사이다. 주어진 것과 쓰임이 같은 것끼리 찾아야 한다.",
+          "explanation": {
+            "①": "learning — 전치사 in의 목적어(동명사) — 문장 내 명사 역할 ✓ (동명사)",
+            "②": "changing — consider의 목적어(동명사) ✓ (동명사)",
+            "③": "drawing — 현재진행형(현재분사) ✗",
+            "④": "laughing — 현재진행형(현재분사) ✗",
+            "⑤": "taking — 현재진행형(현재분사) ✗"
+          }
+        },
+        "16": {
+          "q": "다음 우리말을 영어로 바르게 옮긴 것은?",
+          "content": "그는 아들을 자랑스러워하지 않을 수 없었다.",
+          "options": [
+            "He can't help feeling proud of his son.",
+            "He could not help to feel proud of his son.",
+            "He didn't help feeling proud of his son.",
+            "He couldn't help to feel proud of his son.",
+            "He couldn't help feeling proud of his son."
+          ],
+          "answer": "⑤",
+          "hint": "'~하지 않을 수 없다'는 can't(cannot) help -ing로 나타낸다. 시제가 과거이므로 couldn't help -ing가 알맞다.",
+          "explanation": {
+            "①": "can't — 현재시제로 과거 문맥과 맞지 않음 ✗",
+            "②": "to feel — can't help 뒤에는 동명사가 와야 함 ✗",
+            "③": "didn't help — 올바른 표현이 아님 ✗",
+            "④": "to feel — couldn't help 뒤에는 동명사가 와야 함 ✗",
+            "⑤": "couldn't help feeling — 과거시제 + 동명사 ✓"
+          }
+        },
+        "17": {
+          "q": "다음 빈칸에 들어갈 말로 알맞지 않은 것은?",
+          "content": "__________ to practice yoga every morning.",
+          "options": [
+            "Try",
+            "Remember",
+            "Begin",
+            "Continue",
+            "Consider"
+          ],
+          "answer": "⑤",
+          "hint": "consider는 동명사를 목적어로 취하는 동사이다.",
+          "explanation": {
+            "①": "Try — to부정사를 목적어로 취함 ✓",
+            "②": "Remember — to부정사를 목적어로 취함(미래에 할 것) ✓",
+            "③": "Begin — to부정사/동명사 모두 가능 ✓",
+            "④": "Continue — to부정사/동명사 모두 가능 ✓",
+            "⑤": "Consider — 동명사만 목적어로 취하므로 to practice 앞에 불가 ✗"
+          }
+        },
+        "18": {
+          "q": "다음 밑줄 친 부분 중 어법상 틀린 것은?",
+          "content": "",
+          "options": [
+            "Would you mind giving me a ride?",
+            "She continued to play video games.",
+            "Have you finished washing the dishes?",
+            "Don't forget calling your mom tomorrow.",
+            "He tried to get another job, but he had no luck."
+          ],
+          "answer": "④",
+          "hint": "'내일 ~할 것을 잊지 말라'는 의미가 되어야 하므로 'forget+to부정사'가 와야 한다. 따라서 calling → to call이 되어야 한다.",
+          "explanation": {
+            "①": "giving — mind+동명사 ✓",
+            "②": "to play — continue+to부정사 ✓",
+            "③": "washing — finish+동명사 ✓",
+            "④": "calling → to call: forget+to부정사(앞으로 할 것을 잊지 마라) ✗",
+            "⑤": "to get — try+to부정사(노력하다) ✓"
+          }
+        },
+        "19": {
+          "q": "다음 밑줄 친 부분이 동명사인 것을 모두 골라 기호를 쓰시오.",
+          "content": "ⓐ She is talking to her dad on the phone.\nⓑ His role was training new volunteers.\nⓒ Speaking loudly in a library is rude.\nⓓ The barking dog chased the ball.\nⓔ I have never thought of dancing on a stage.",
+          "options": [],
+          "answer": "ⓑ, ⓒ, ⓔ",
+          "hint": "ⓑ,ⓒ,ⓔ는 각각 주격보어, 주어, 전치사의 목적어 역할을 하는 동명사이고, ⓐ는 현재분사(현재진행형), ⓓ는 현재분사(명사 수식)이다.",
+          "explanation": {
+            "ⓐ": "talking — 현재진행형(현재분사)",
+            "ⓑ": "training — 동명사(주격보어) ✓",
+            "ⓒ": "Speaking — 동명사(주어) ✓",
+            "ⓓ": "barking — 현재분사(명사 수식)",
+            "ⓔ": "dancing — 동명사(전치사 of의 목적어) ✓"
+          }
+        },
+        "20": {
+          "q": "다음 중 어법상 틀린 것은?",
+          "content": "",
+          "options": [
+            "They object to cancel the plans.",
+            "Do you feel like watching a movie?",
+            "One of my friends likes to go hiking.",
+            "She is busy preparing for her final exams.",
+            "We spent two days cleaning up the garden."
+          ],
+          "answer": "①",
+          "hint": "'~에 반대하다'는 object to -ing로 나타내므로 cancel → canceling이 되어야 한다.",
+          "explanation": {
+            "①": "to cancel → to canceling: object to의 to는 전치사이므로 동명사가 와야 함 ✗",
+            "②": "watching — feel like+동명사 ✓",
+            "③": "to go — like+to부정사 ✓",
+            "④": "preparing — be busy -ing ✓",
+            "⑤": "cleaning — spend+시간+-ing ✓"
+          }
+        },
+        "21": {
+          "q": "다음 빈칸에 들어갈 말로 알맞은 것을 모두 고르면?",
+          "content": "__________ about the weather. It is out of your control.",
+          "options": [
+            "It is no use complaining",
+            "You are good at complaining",
+            "You should stop complaining",
+            "You are used to complaining",
+            "You should start complaining"
+          ],
+          "answer": "①②③④",
+          "hint": "이 자리는 '날씨를 통제할 수 없다'이므로 문맥상 It is no use -ing(~해도 소용없다), stop+동명사, be used to -ing, be good at -ing 모두 알맞다. start는 complaining 앞에 올 수 있지만 문맥상 어색하다.",
+          "explanation": {
+            "①": "It is no use complaining — ~해도 소용없다 ✓",
+            "②": "You are good at complaining — ~을 잘한다 ✓",
+            "③": "You should stop complaining — ~하는 것을 멈추다 ✓",
+            "④": "You are used to complaining — ~에 익숙하다 ✓",
+            "⑤": "You should start complaining — 문맥상 어색 ✗"
+          }
+        },
+        "22": {
+          "q": "다음 빈칸에 들어갈 말로 알맞은 것은?",
+          "content": "그의 부상은 그가 경기에 출전하지 못하게 할지도 모른다.\n→ His injury may __________ in the game.",
+          "options": [
+            "prevent him play",
+            "prevent him to play",
+            "prevent him from play",
+            "prevent him to playing",
+            "prevent him from playing"
+          ],
+          "answer": "⑤",
+          "hint": "'~가 ~하지 못하게 하다'는 prevent ~ from -ing로 나타낸다.",
+          "explanation": {
+            "①": "prevent him play — from 없음 ✗",
+            "②": "prevent him to play — to부정사 불가 ✗",
+            "③": "prevent him from play — 동명사가 아닌 동사원형 ✗",
+            "④": "prevent him to playing — 구조 잘못됨 ✗",
+            "⑤": "prevent him from playing — prevent+목적어+from+동명사 ✓"
+          }
+        },
+        "23": {
+          "q": "다음 글의 괄호 안에서 어법에 맞는 것을 고르시오.",
+          "content": "Jamie always avoided ( going / to go ) to the dentist. However, he decided ( going / to go ) when he couldn't stand his toothache anymore.",
+          "options": [
+            "going / to go",
+            "to go / going",
+            "going / going",
+            "to go / to go"
+          ],
+          "answer": "going / to go",
+          "hint": "첫 번째는 avoid가 동명사를 목적어로 취하는 동사이므로 going이 알맞다. 두 번째는 decide가 to부정사를 목적어로 취하는 동사이므로 to go가 알맞다.",
+          "explanation": {
+            "going": "avoid+동명사: '치과 가는 것을 피하다' ✓",
+            "to go": "decide+to부정사: '치과에 가기로 결심했다' ✓"
+          }
+        }
+      }
+    },
+    "HARD": {
+      "label": "🔴 고난도 문제",
+      "questions": {
+        "24": {
+          "q": "다음 빈칸에 들어갈 말이 바르게 짝지어진 것은?",
+          "content": "• He stopped __________ lunch because it made him sleepy.\n• He stopped __________ lunch because he was hungry.",
+          "options": [
+            "eating — eating",
+            "eating — to eat",
+            "eating — to eating",
+            "to eat — to eat",
+            "to eat — eating"
+          ],
+          "answer": "②",
+          "hint": "첫 번째 문장은 '점심을 먹으면 졸려서'라는 말로 보아 '점심 먹는 것을 그만뒀다'라는 의미가 되어야 하므로 동명사가 알맞다. 두 번째 문장은 '배가 고파서'라는 말로 보아 '점심을 먹기 위해 멈췄다'라는 의미가 되어야 하므로 to부정사가 알맞다.",
+          "explanation": {
+            "①": "eating — eating: 두 번째는 '먹기 위해 멈췄다'이므로 to eat ✗",
+            "②": "eating — to eat: 첫 번째(~하는 것을 멈추다) + 두 번째(~하기 위해 멈추다) ✓",
+            "③": "eating — to eating: to eating은 잘못된 형태 ✗",
+            "④": "to eat — to eat: 첫 번째는 동명사가 와야 함 ✗",
+            "⑤": "to eat — eating: 반대로 쓰임 ✗"
+          }
+        },
+        "25": {
+          "q": "다음 중 어법상 올바른 문장의 개수는?",
+          "content": "ⓐ I don't feel like going for a walk.\nⓑ Thank you for help me carry my suitcases.\nⓒ Learning a new language is not easy.\nⓓ I object to play music at night.\nⓔ His interest is to spending time with his family.",
+          "options": [
+            "1개",
+            "2개",
+            "3개",
+            "4개",
+            "5개"
+          ],
+          "answer": "②(2개)",
+          "hint": "ⓑ help → helping, ⓓ play → playing, ⓔ to spending → to spend 또는 spending",
+          "explanation": {
+            "ⓐ": "feel like+동명사 ✓ 올바름",
+            "ⓑ": "for help → for helping: 전치사 for 뒤 동명사 ✗",
+            "ⓒ": "Learning — 동명사 주어 ✓ 올바름",
+            "ⓓ": "to play → to playing: object to의 to는 전치사 ✗",
+            "ⓔ": "to spending → spending(주격보어) 또는 to spend(to부정사 보어) ✗"
+          }
+        },
+        "26": {
+          "q": "다음 우리말과 뜻이 같도록 괄호 안의 단어를 이용하여 문장을 완성하시오.",
+          "content": "그녀는 새로운 기술을 배우는 것을 포기하지 않을 것이다. (give up, learn)\n→ She won't __________ new skills.",
+          "options": [],
+          "answer": "give up learning",
+          "hint": "give up은 동명사를 목적어로 취하는 동사이다.",
+          "explanation": {
+            "give up learning": "give up+동명사: '배우는 것을 포기하다' ✓"
+          }
+        },
+        "29": {
+          "q": "어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오.",
+          "content": "She couldn't help to smiling at the picture.",
+          "options": [],
+          "answer": "to smiling → smiling",
+          "hint": "'~하지 않을 수 없다'는 couldn't help -ing로 나타낸다.",
+          "explanation": {
+            "to smiling → smiling": "couldn't help+동명사: '미소 짓지 않을 수 없었다' ✓"
+          }
+        },
+        "31": {
+          "q": "다음 문장을 우리말로 옮긴 것 중 바르지 않은 것은?",
+          "content": "",
+          "options": [
+            "On arriving home, I washed my hands. → 집에 도착하자마자, 나는 손을 씻었다.",
+            "It is no use worrying about the future. → 미래에 대해 걱정해도 소용없다.",
+            "They are busy preparing for the concert. → 그들은 콘서트를 준비하느라 바쁘다.",
+            "Many people are used to texting on their phones. → 많은 사람들이 자신의 전화기로 문자를 보내곤 했다.",
+            "I went swimming in the indoor swimming pool. → 나는 실내 수영장으로 수영하러 갔다."
+          ],
+          "answer": "④",
+          "hint": "be used to -ing가 쓰였으므로 '많은 사람들이 휴대폰으로 문자를 보내는 데 익숙하다'라는 의미이다. '~하곤 했다'는 used to+동사원형으로 나타낸다.",
+          "explanation": {
+            "①": "On arriving — On -ing: ~하자마자 ✓",
+            "②": "It is no use worrying — ~해도 소용없다 ✓",
+            "③": "busy preparing — be busy -ing: ~하느라 바쁘다 ✓",
+            "④": "are used to texting: '~에 익숙하다'는 의미. '~하곤 했다'는 used to+동사원형 ✗",
+            "⑤": "went swimming — go -ing: ~하러 가다 ✓"
+          }
+        }
+      }
+    }
+  }
+}
